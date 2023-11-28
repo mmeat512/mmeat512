@@ -1,38 +1,29 @@
 <p align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=slice&color=E6E6FA&height=170&section=header&text=JUYEON&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-# I'm JuYeon Lee, a growing developer. 🌱
-## 🚀 Start
-From Agust, 2019, I learned Java-based web development(Full stack course) at KG ITBank Academy in Gangnam.<br>
-I try to grow constantly after Academy completion. 😁😁
-
-## 😀 I am
-- A growing developer
-- Fast leaner
-- Good at adapting to new challenges
-- A supportive team player
+# 새싹 개발자 🌱
 
 ## 🛠 Skills 
 
 <div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;  
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-round&logo=Redux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-round&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-00D182?style=flat-round&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 </div>
 
-## More...
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmeat170512@gmail.com)](mailto:mmeat170512@gmail.com)&nbsp;
-<a href="https://mmeat-dev.tistory.com/">
-    <img 
-        src="https://img.shields.io/badge/Tistory-D3D3D3?style=flat-round&logo=Teradata&logoColor=gray"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 ---
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mmeat512&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmeat512&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmeat512&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mmeat512&show_icons=true&theme=dracula)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss5162)](https://solved.ac/sss5162)
 </p>
