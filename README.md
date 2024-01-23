@@ -24,6 +24,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mmeat512&show_icons=true&theme=dracula)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmeat512)](https://solved.ac/mmeat512)
+
 </p>
